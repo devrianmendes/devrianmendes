@@ -1,4 +1,4 @@
-
+<img height="270em" align="center" src="https://raw.githubusercontent.com/devrianmendes/devrianmendes/main/img/banner.jpg"/>
 
 - 🔭 Estudante de análise e desenvolvimento de sistemas.
 - 🌱 Atualmente estudando React.JS por fora da faculdade.
