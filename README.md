@@ -2,9 +2,9 @@
 
 ##
 - ❤️ Apaixonado por tecnologia desde sempre.
-- 📖 Estudante de análise e desenvolvimento de sistemas.
-- 🔥 Atualmente estudando React.JS por fora da faculdade.
-- 💻 Procurando minha primeira oportunidade em desenvolvimento.
+- 📖 Formado em Análise e Desenvolvimento de Sistemas.
+- 🌱 Em constante aprendizado sobre desenvolvimento e tecnologias modernas.
+- 💻 Buscando minha primeira oportunidade como desenvolvedor
 
 ##
 
