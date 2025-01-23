@@ -4,7 +4,7 @@
 - ❤️ Apaixonado por tecnologia desde sempre.
 - 📖 Formado em Análise e Desenvolvimento de Sistemas.
 - 🌱 Em constante aprendizado sobre desenvolvimento e tecnologias modernas.
-- 💻 Buscando minha primeira oportunidade como desenvolvedor
+- 💻 Buscando minha primeira oportunidade como desenvolvedor.
 
 ##
 
@@ -24,6 +24,6 @@
 
 ##
 
-  <a href="https://www.linkedin.com/in/rian-mendes-65102687/" target="_blank">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)<a/>
+  <a href="https://www.linkedin.com/in/devrianmendes/" target="_blank">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)<a/>
   <a href="mailto:dev.rianmendes@outlook.com">![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)</a>
 
