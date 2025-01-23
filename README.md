@@ -17,8 +17,10 @@
 <div style="display: inline_block" align="center">
   <img align="center" alt="HTML5-Logo" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />        
   <img align="center" alt="CSS3-Logo" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Bootstrap-Logo" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />       
+  <img align="center" alt="Bootstrap-Logo" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwind/bootstrap-original.svg" />       
+  <img align="center" alt="Tailwind-logo" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwind/tailwind-original.svg" />       
   <img align="center" alt="Javascript-Logo" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />   
+  <img align="center" alt="Typescript-Logo" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />   
   <img align="center" alt="Reactjs-Logo" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
 </div>
 
